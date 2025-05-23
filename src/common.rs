@@ -993,7 +993,7 @@ fn get_api_server_(api: String, custom: String) -> String {
             return format!("http://{}", s);
         }
     }
-    "http://172.16.243.60:21114".to_owned()
+    "http://sunnyun.cn:21114".to_owned()
 }
 
 #[inline]
